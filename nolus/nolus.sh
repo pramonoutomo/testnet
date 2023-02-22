@@ -2,13 +2,13 @@
 # // Copyright (C) 2023 Pramono Utomo - CodeblockLabs
 #
 
-echo -e "\033[0;35m"                                                                                                               ";             
+echo -e "\033[0;35m"                                                                                                                      
 echo "   _|_|_|                  _|            _|_|_|    _|                      _|        _|                  _|                  ";
 echo " _|          _|_|      _|_|_|    _|_|    _|    _|  _|    _|_|      _|_|_|  _|  _|    _|          _|_|_|  _|_|_|      _|_|_|  ";
 echo " _|        _|    _|  _|    _|  _|_|_|_|  _|_|_|    _|  _|    _|  _|        _|_|      _|        _|    _|  _|    _|  _|_|      ";
 echo " _|        _|    _|  _|    _|  _|        _|    _|  _|  _|    _|  _|        _|  _|    _|        _|    _|  _|    _|      _|_|  ";
 echo "   _|_|_|    _|_|      _|_|_|    _|_|_|  _|_|_|    _|    _|_|      _|_|_|  _|    _|  _|_|_|_|    _|_|_|  _|_|_|    _|_|_|    ";
-echo ">>> Cosmovisor Automatic Installer for Nolus | Chain ID : nolus-rila <<<";
+echo ">>> Cosmovisor Automatic Installer _for_ Nolus | Chain ID : nolus-rila <<<";
 echo -e "\e[0m"
 
 sleep 1
